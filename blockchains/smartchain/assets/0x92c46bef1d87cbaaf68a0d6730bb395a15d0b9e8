@@ -1,0 +1,11 @@
+{
+    "name": "Defydefi",
+    "website": "https://www.defydefi.io",
+    "description": "DefyDefi is a next-gen auto-yield smart contract that is designed to serve real-world use cases. The vision is to have the market cap associated with its NFT treasury, royalties, and influencer partnerships.",
+    "explorer": "https://bscscan.com/token/0x92c46bef1d87cbaaf68a0d6730bb395a15d0b9e8",
+    "type": "BEP20",
+    "symbol": "DEFY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x92c46bef1d87cbaaf68a0d6730bb395a15d0b9e8"
+}
